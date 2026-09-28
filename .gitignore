@@ -1,0 +1,13 @@
+# Dataset besar
+dataset/*.csv
+dataset/*.parquet
+
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment
+.env
