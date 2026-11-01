@@ -119,8 +119,7 @@ The final dashboard was developed in **Power BI** to present the main findings i
 
 ### Dashboard Preview
 
-<img width="652" height="367" alt="Dashboard" src="https://github.com/user-attachments/assets/d1759bac-b9b8-4c76-b4fa-d34a96bfc45e" />
-
+[NYC Taxi Dashboard.pdf](https://github.com/user-attachments/files/34231671/NYC.Taxi.Dashboard.pdf)
 
 ### Dashboard Components
 
